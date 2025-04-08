@@ -61,7 +61,7 @@ Google Maps allows multiple stops but only for car trips and doesn’t account f
 ### Create a full-day schedule that handles both strict appointments and flexible arrival windows ⏰
 Enter fixed appointment times, and the app will recommend departure times to maximize time at each stop while ensuring you’re never late. Need to spend an hour at the grocery store anytime before closing? The app schedules it efficiently while keeping your whole plan on track.
 
-### Auto-arrange stops for the most efficient jourey 🚅
+### Auto-arrange stops for the most efficient journey 🚅
 The app can rearrange your schedule to maximize efficiency. For instance, if you have a strict appointment at location B in the morning but flexible visits at locations A and C, each lasting about two hours, the app may adjust your itinerary from `HOME → A → B → C` to `HOME → B → C → A → HOME` to save time and improve your travel experience.
 
 ### Adjust your schedule in real time 😯
@@ -69,7 +69,7 @@ Easily adjust your schedule in real time with the press of a button—whether pl
 
 # 🎬 "Tell My Story" Journey Animator With Exportable Graphics
 
-This tool combines adds options for animation and graphics export on top of this app's other features. This feature is used to visualize a journey across the city for a variety of story-telling purposes.
+This final tool  adds options for animation and graphics export on top of this app's other features. This feature is used to visualize a journey across the city for a variety of story-telling purposes.
 
 ### Export map as a graphic file 🖼️
 Generate a PNG image file showing a still map overlayed with routes, stops, and other useful details. The image file can be used on digital and print media. You can also export an animated GIF file to show the map animation of routes, stops, and other useful details. The GIF can be customized with dimensions, animation settings, and details toggled on/off.
@@ -79,3 +79,12 @@ Generate a video file by producing several PNG files, one for each frame of map 
 
 ### Embed map on external webpage 💻
 Generate HTML code for embedding a map on your own website or blog. The embed can be customized with animation settings and details toggled on/off.
+
+### For content creators / social media influencers 📲
+Make the next viral hit by incorporating a journey animation that shows off your adventure in a fun and engaging way. [Watch this Instagram reel](https://www.instagram.com/reel/C-pwjOcsWPr/) to see an example of a reel that uses map animations to highlight neighborhoods explored and bus routes used to travel there. 
+
+### For transportation planners / neighborhood advocates 🛣️
+Proposing a new bike lane? Or trying to [spread awareness of big plans](https://www.instagram.com/reel/C8VmpTzMNJ5/) from the city that people could vote on? Use the video export tool to bring plans and proposals to life.
+
+### For bloggers / writers ✍️
+Add visual clarity to your stories about the city by embedding either a still PNG, an animated GIF, or an interactive widget (for platforms that allow iframes) in your blog posts. 
